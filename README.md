@@ -75,6 +75,7 @@ Execute o arquivo
 index.html
 Abra no navegador
 Objetivo Educacional
+ou acesse: https://clima-hoje-two.vercel.app/
 
 Este projeto foi desenvolvido com fins de aprendizado e prática de:
 
